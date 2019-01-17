@@ -1,0 +1,24 @@
+/* -----------------------------------------------------------------
+## Custom CSS
+----------------------------------------------------------------- */
+/* Add here all your CSS customizations */
+
+.alpha-bottom{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.19);
+    padding-bottom: 34px;
+}
+
+.widget-border{
+    border: 1px solid gainsboro;
+    padding: 27px 0px;
+    border-top: 5px solid #4ecdc4;
+}
+
+.widget-border .widget__title .widget__title-text{
+    padding: 0px 26px;
+}
+
+
+.news-feed-top{
+    margin-top: 40px;
+}
